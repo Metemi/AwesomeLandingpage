@@ -1,0 +1,84 @@
+
+
+.container{
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Open Sans', sans-serif; 
+}
+.newsletter{
+  color: gray;
+  border: thin solid gray;
+  padding: 10px;
+  border-radius: 3px;
+  position: relative;
+}
+.newsletter button{
+  background: limegreen;
+  color:white;
+  border: none;
+  display: block;
+  width: 100%;
+  height: 30px;
+  margin-top: 10px;
+}
+.newsletter input#email{
+  display: block;
+  width: 100%;
+  height: 30px;
+  border-radius: 3px;
+  border: 1px gray solid;
+  box-sizing: border-box;
+}
+.newsletter h3{
+  margin-top: 0;
+  }
+
+button{
+  margin-bottom: 20px;
+}
+
+#terms {
+  margin-bottom: 20px;
+  position: relative;
+  top: 3px;
+}
+
+.newsletter #closex {
+  position: absolute;
+  left: 580px;
+  bottom:200px;
+}
+
+#questionmark {
+  background: limegreen;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  font-size: 70px;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  box-shadow: 0px 0px 6px 3px gray;
+}
+.card {
+  background: limegreen;
+  width: 160px;
+  text-align: center;
+  color: white;
+  padding: 20px 10px;
+  box-shadow: 0px 0px 6px 3px gray;
+}
+.card h3 {
+  margin: 0;
+  margin-top: 10px;
+}
+#cardholder {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: 
+  
+}
